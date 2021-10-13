@@ -10,9 +10,10 @@
     <li><a href="#b">設定辨識的文字語言</a></li>
     <li><a href="#c">取得要辨識的圖片</a></li>
     <li><a href="#d">辨識圖片後回傳的資料</a></li>
-    <li><a href="#e">效果展示</a></li>
-	<li><a href="#f">Github</a></li>
-	<li><a href="#g">相關參考</a></li>
+    <li><a href="#e">程式範例</a></li>
+	<li><a href="#f">效果展示</a></li>
+	<li><a href="#g">Github</a></li>
+	<li><a href="#h">相關參考</a></li>
 </ol>
 
 ---
@@ -130,7 +131,7 @@ class MainActivity : AppCompatActivity() {
 #### 7.Github
 [ML Kit 免費圖片文字辨識  Text Recognition  Github](https://github.com/MuHongWeiWei/RecognizeTextDemo)
 
-<a id="g"></a>
+<a id="h"></a>
 #### 8.相關參考
 [https://developers.google.com/ml-kit/vision/text-recognition/v2](https://developers.google.com/ml-kit/vision/text-recognition/v2 "https://developers.google.com/ml-kit/vision/text-recognition/v2")
 
